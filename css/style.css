@@ -2,7 +2,7 @@ body {
     font-family: 'Orbitron', sans-serif;
     /* font-family: 'Press Start 2P', cursive; */
     /* font-family: 'Varela Round', sans-serif; */
-    background-image: url("/imagens/background.jpg");
+    background-image: url("../imagens/background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -17,7 +17,7 @@ body {
     background-color: white;
     -webkit-clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
     /* clip-path: polygon(0 0, 100% 0, 100% 96%, 0 100%); */
-    background-image: url("/imagens/foto.gif");
+    background-image: url("../imagens/foto.gif");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
